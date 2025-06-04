@@ -1,0 +1,10 @@
+^C:\USERS\ASUS\DESKTOP\LAB5\FORTUNE_ALGO-20250525T011346Z-1-001\FORTUNE_ALGO\BUILD\CMAKEFILES\3A696430E61183419F81E36A07630B00\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Asus/Desktop/lab5/Fortune_algo-20250525T011346Z-1-001/Fortune_algo -BC:/Users/Asus/Desktop/lab5/Fortune_algo-20250525T011346Z-1-001/Fortune_algo/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Asus/Desktop/lab5/Fortune_algo-20250525T011346Z-1-001/Fortune_algo/build/Fortune_algo.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

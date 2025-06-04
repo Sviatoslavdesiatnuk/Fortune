@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Asus\Desktop\lab5\Fortune_algo-20250525T011346Z-1-001\Fortune_algo\build\CMakeFiles\3a696430e61183419f81e36a07630b00\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{62B968F7-F68E-318C-B0A5-6864D59C160E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

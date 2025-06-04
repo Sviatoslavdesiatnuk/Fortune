@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/lab5/Fortune_algo-20250525T011346Z-1-001/Fortune_algo/build/CMakeFiles/Fortune_algo.dir
+C:/Users/Asus/Desktop/lab5/Fortune_algo-20250525T011346Z-1-001/Fortune_algo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Asus/Desktop/lab5/Fortune_algo-20250525T011346Z-1-001/Fortune_algo/build/CMakeFiles/ZERO_CHECK.dir

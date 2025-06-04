@@ -1,0 +1,3 @@
+C:/Users/Sasha/Desktop/lab_5/Fortune_algo/cmake-build-debug/CMakeFiles/Fortune_algo.dir
+C:/Users/Sasha/Desktop/lab_5/Fortune_algo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Sasha/Desktop/lab_5/Fortune_algo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

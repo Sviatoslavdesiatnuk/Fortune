@@ -1,0 +1,9 @@
+# ninja log v6
+9	629	7654508124729912	build.ninja	3a5c8891d7b17ec5
+3640	3992	7642978279638682	lb.exe	4e4edf52626d2932
+35	1367	7645356052279223	CMakeFiles/Fortune_algo.dir/voronoi.cpp.obj	801fd6c07334f6b7
+28	2546	7645356052226886	CMakeFiles/Fortune_algo.dir/main.cpp.obj	b621d3100dba84c5
+2546	2772	7645356077405687	Fortune_algo.exe	d1dea40be0e18daf
+64	2259	7654509017286520	CMakeFiles/Fortune_algo.dir/voronoi.cpp.obj	d53058047850dece
+52	4479	7654509017175213	CMakeFiles/Fortune_algo.dir/main.cpp.obj	260f8b161e7f0932
+4480	4994	7654509061448646	Fortune_algo.exe	b20cb73ba8c4bf44

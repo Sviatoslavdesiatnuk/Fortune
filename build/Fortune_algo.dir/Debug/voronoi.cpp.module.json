@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Fortune_algo.dir\\Debug\\voronoi.obj",
+            "outputs": [
+                "C:\\Users\\Asus\\Desktop\\lab5\\Fortune_algo-20250525T011346Z-1-001\\Fortune_algo\\build\\Fortune_algo.dir\\Debug\\vc143.pdb",
+                "Fortune_algo.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}
